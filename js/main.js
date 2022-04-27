@@ -1,9 +1,9 @@
-let first_name = prompt("What's your name?");
-let surname = prompt("What's your surname?");
-let color = prompt("What's your favorite color?");
-// let first_name = "Gianni"
-// let surname = "Caringi"
-// let color = "Black"
+// let first_name = prompt("What's your name?");
+// let surname = prompt("What's your surname?");
+// let color = prompt("What's your favorite color?");
+let first_name = "Gianni"
+let surname = "Caringi"
+let color = "Black"
 const SecCode = 21;
 let simplepsw = `${first_name + surname + color}21`
 

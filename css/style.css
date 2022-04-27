@@ -1,12 +1,29 @@
 body{
-    color: black;
+    color: #5e678e;
     background-image: url("../img/8841.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .customs{
-    background-color: rgba(0, 0, 0, 0.3);
-    margin-top: 15%;
-    border-radius: 40px;
+    background-color: rgba(0, 0, 0, 0.150);
+    box-shadow: 10px 0px 20px 20px rgba(0, 0, 0, 0.150);
+    margin-top: 10%;
+    margin-bottom: 100px;
+    border-radius: 20px;
+}
+
+/*----------
+    TYPO
+----------*/
+
+h4{
+    cursor: pointer;
+}
+
+/*-------------------------
+    EFFECTS AND ANIMATION
+--------------------------*/
+h4:hover{
+    color: black;
 }
