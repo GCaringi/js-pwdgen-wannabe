@@ -1,0 +1,12 @@
+body{
+    color: black;
+    background-image: url("../img/8841.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.customs{
+    background-color: rgba(0, 0, 0, 0.3);
+    margin-top: 15%;
+    border-radius: 40px;
+}
